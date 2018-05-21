@@ -1,0 +1,4 @@
+*.sw*
+.build/*
+log/*
+Mojolicious-Plugin-NoReferrer*
