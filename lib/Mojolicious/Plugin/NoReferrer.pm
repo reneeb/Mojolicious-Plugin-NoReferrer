@@ -47,11 +47,11 @@ __END__
 
 =head1 DESCRIPTION
 
-L<Mojolicious::Plugin::GoogleFontProxy> is a L<Mojolicious> plugin.
+L<Mojolicious::Plugin::NoReferrer> is a L<Mojolicious> plugin.
 
 =head1 METHODS
 
-L<Mojolicious::Plugin::GoogleFontProxy> inherits all methods from
+L<Mojolicious::Plugin::NoReferrer> inherits all methods from
 L<Mojolicious::Plugin> and implements the following new ones.
 
 =head2 register
